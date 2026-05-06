@@ -3,7 +3,7 @@ import profile_photo from "../assets/profile_photo.jpg";
 
 export default function About() {
   return (
-    <section id="about" className="pt-40 w-full min-h-screen">
+    <section id="about" className="scroll-mt-24 py-16 w-full min-h-screen">
       <div className="max-w-7xl mx-auto flex flex-col md:flex-row justify-between gap-10 px-3 items-center">
         {/* left content */}
         <div className="flex flex-1

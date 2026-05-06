@@ -17,10 +17,7 @@ export default function Header() {
             </li> 
             <li className="cursor-pointer text-xl text-gray-300 uppercase hover:text-blue-500 transition-all duration-300">
               <a href="#skills">Skills</a> 
-            </li> 
-            <li className="cursor-pointer text-xl text-gray-300 uppercase hover:text-blue-500 transition-all duration-300">
-              <a href="#education">Education</a> 
-            </li> 
+            </li>
             <li className="cursor-pointer text-xl text-gray-300 uppercase hover:text-blue-500 transition-all duration-300">
               <a href="#projects">Projects</a> 
             </li> 
@@ -52,9 +49,6 @@ export default function Header() {
             </li>
             <li onClick={()=> setOpen(false)} className="cursor-pointer text-xl text-gray-300 uppercase hover:text-blue-500 transition-all duration-300">
               <a href="#skills">Skills</a>
-            </li>
-            <li onClick={()=> setOpen(false)} className="cursor-pointer text-xl text-gray-300 uppercase hover:text-blue-500 transition-all duration-300">
-              <a href="#education">Education</a>
             </li>
             <li onClick={()=> setOpen(false)} className="cursor-pointer text-xl text-gray-300 uppercase hover:text-blue-500 transition-all duration-300">
               <a href="#projects">Projects</a>

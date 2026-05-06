@@ -23,7 +23,7 @@ export default function Contact() {
       console.log(data);
     }
   return (
-    <section id="contact" className="w-full py-16">
+    <section id="contact" className="w-full scroll-mt-24 py-16">
       <div className="max-w-7xl mx-auto px-6">
         <h3 className="text-3xl md:text-5xl font-bold text-center">CONTACT</h3>
         <div className="flex justify-center mt-10">

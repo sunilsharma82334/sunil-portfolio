@@ -3,7 +3,7 @@ import certificate from "../assets/certificate.png"
 
 export default function Certifications() {
   return (
-    <section id='certifications' className='w-full my-16'>
+    <section id='certifications' className='w-full scroll-mt-24 my-16'>
       <div className='max-w-7xl mx-auto px-6'>
             <h3 className='text-3xl md:text-5xl font-bold text-center'>CERTIFICATE</h3>
             <div className='flex justify-center mt-6'>

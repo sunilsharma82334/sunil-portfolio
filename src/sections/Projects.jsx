@@ -4,7 +4,7 @@ import ecommerceShopmate from "../assets/ecommerceShopmate.png";
 
 export default function Projects() {
   return (
-    <section id="projects" className="w-full my-20">
+    <section id="projects" className="w-full scroll-mt-24 py-16">
       <div className="max-w-7xl mx-auto px-6">
         <h3 className="font-bold text-3xl md:text-5xl">My Projects</h3>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-10 mt-10">

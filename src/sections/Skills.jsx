@@ -8,7 +8,7 @@ import bootstrap from "../assets/bootstrap.jpeg";
 
 export default function Skills() {
   return (
-    <section id="skills" className="w-full my-2">
+    <section id="skills" className="w-full scroll-mt-24 py-16">
       <div className="max-w-7xl mx-auto px-6">
         <div className="flex flex-col items-center gap-3">
           <h3 className="text-3xl md:text-5xl font-bold">My Skills</h3>
